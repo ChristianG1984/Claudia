@@ -2,6 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <RootNamespace>ChristianG1984.Claudia.Lib</RootNamespace>
   </PropertyGroup>
 
 </Project>

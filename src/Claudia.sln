@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.28010.2041
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Claudia.Lib", "Claudia.Lib\Claudia.Lib.csproj", "{3F99ADB4-F12C-46C6-8F94-F22EAD62676F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Claudia.Lib.Default.Test", "Claudia.Lib.Default.Test\Claudia.Lib.Default.Test.csproj", "{1BC09DFA-4C83-4B89-8753-E55645A0CC46}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Claudia.Lib.Test", "Claudia.Lib.Test\Claudia.Lib.Test.csproj", "{1BC09DFA-4C83-4B89-8753-E55645A0CC46}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

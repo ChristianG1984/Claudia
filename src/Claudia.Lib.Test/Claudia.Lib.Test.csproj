@@ -9,8 +9,8 @@
     <ProjectGuid>{1BC09DFA-4C83-4B89-8753-E55645A0CC46}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Claudia.Lib.Default.Test</RootNamespace>
-    <AssemblyName>Claudia.Lib.Default.Test</AssemblyName>
+    <RootNamespace>ChristianG1984.Claudia.Lib.Test</RootNamespace>
+    <AssemblyName>Claudia.Lib.Test</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>

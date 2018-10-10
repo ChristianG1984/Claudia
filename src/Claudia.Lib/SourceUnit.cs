@@ -2,17 +2,9 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Claudia.Lib.Interface
+namespace ChristianG1984.Claudia.Lib
 {
-    public interface SourceUnit
-    {
-        string PreprocessorResult();
-    }
-}
-
-namespace Claudia.Lib.Default
-{
-    public sealed class SourceUnit : Interface.SourceUnit
+    public sealed class SourceUnit : ISourceUnit
     {
         private readonly string source;
         private readonly string environment;
